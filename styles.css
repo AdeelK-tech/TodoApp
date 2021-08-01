@@ -1,0 +1,81 @@
+body {
+  background-image: url(images/todo-list-seamless-pattern-universal-background-vector-7561340.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h2 {
+  color: aliceblue;
+  text-align: center !important;
+  font-size: 32px !important;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+}
+.input {
+  text-align: center !important;
+}
+#todo-item {
+  width: 400px !important;
+  height: 30px !important;
+  padding: 10px 10px 5px 5px !important;
+
+  font-size: 16px !important;
+}
+.btn {
+  text-align: center;
+  margin-top: 30px;
+}
+#btn1 {
+  height: 40px;
+  width: 100px;
+  border-style: none;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  padding: 10px 10px;
+  font-size: 16x;
+}
+#btn2 {
+  height: 40px;
+  width: 100px;
+  border-style: none;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  padding: 10px 10px;
+  font-size: 16x;
+}
+#editbtn {
+  margin-left: 10px;
+  width: 60px;
+  height: 30px;
+  border-style: none;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  padding: 3px 3px 2px 2px;
+}
+#delbtn {
+  margin-left: 80px;
+  width: 60px;
+  height: 30px;
+  border-style: none;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  padding: 3px 3px 2px 2px;
+}
+#list {
+  margin-top: 30px;
+  font-size: 24px;
+  font-family: sans-serif;
+  color: white;
+  border-style: dotted;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-color: black;
+  padding: 10px 10px;
+}
